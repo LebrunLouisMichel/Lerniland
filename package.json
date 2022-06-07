@@ -2,7 +2,7 @@
   "name": "Lerniland",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LebrunLouisMichel.github.io",
+  "homepage": "https://lebrunlouismichel.github.io",
   "dependencies": {
     "firebase": "^9.8.2",
     "gh-pages": "^4.0.0",
