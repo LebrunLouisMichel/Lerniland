@@ -23,21 +23,35 @@ dt {
 }
 
 h1 {
+
     color: greenyellow;
+
     -webkit-text-stroke: thin black;
+
     font-style: italic;
+
     text-shadow: 5px 5px 5px darkblue;
+
+    text-align: center;
+
 }
 
-h3{
+h3 {
+
     color: greenyellow;
+
     -webkit-text-stroke: thin black;
+
     font-style: italic;
+
     text-shadow: 5px 5px 5px black;
 
+    text-align: center;
+
 }
 
-h2, dd {
+h2,
+dd {
     background-color: var(--mdc-theme-on-primary);
 }
 
@@ -49,13 +63,15 @@ h2, dd {
     background-color: #7CB342
 }
 
-h1, h2, dl {
+h1,
+h2,
+dl {
     margin: 0;
 }
 
 h2 {
     padding: 5px 5px 5px 10px;
-    margin-left: 10px ;
+    margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
 }
@@ -85,7 +101,8 @@ dt span {
     width: 100%;
 }
 
-dt, dd {
+dt,
+dd {
     height: 2rem;
     font-size: 1.2rem;
 }
@@ -155,7 +172,8 @@ footer {
 .mdc-text-field {
     margin-right: 5px;
     margin-left: 10px;
-    border-radius: 20px;;
+    border-radius: 20px;
+    ;
 }
 
 hr {
@@ -166,4 +184,3 @@ hr {
 .material-icons.mdc-text-field__icon.mdc-text-field__icon--trailing {
     width: 10%;
 }
-
