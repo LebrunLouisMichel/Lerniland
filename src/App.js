@@ -124,7 +124,7 @@ class App extends React.Component {
             <div id="container">
                 <header>
                     <h1>LERNILAND</h1>
-                    <h3>Klasse 1C</h3>
+                    <h3>Hausaufgaben Liste</h3>
                     <label
                         className="mdc-text-field mdc-text-field--filled mdc-text-field--with-trailing-icon mdc-text-field--no-label">
                         <span className="mdc-text-field__ripple"></span>
