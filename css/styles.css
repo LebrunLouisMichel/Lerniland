@@ -23,6 +23,7 @@ dt {
 }
 
 h1 {
+    font-size: 48px;
 
     color: greenyellow;
 
@@ -30,13 +31,14 @@ h1 {
 
     font-style: italic;
 
-    text-shadow: 5px 5px 5px darkblue;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
 
     text-align: center;
 
 }
 
-h2 {
+h3 {
+    font-size: 26px;
 
     color: greenyellow;
 
